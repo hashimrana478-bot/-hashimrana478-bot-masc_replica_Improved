@@ -1,0 +1,5 @@
+Algorithm,Test Acc,F1,Params
+Naive Bayes,91.79,91.98,{'var_smoothing': 0.001}
+Decision Tree,92.07,92.15,"{'criterion': 'gini', 'max_depth': None, 'min_samples_split': 10}"
+Logistic Regression,93.28,93.44,"{'C': 10, 'multi_class': 'multinomial', 'solver': 'lbfgs'}"
+Multi-Layer Perceptron,93.28,93.41,"{'activation': 'relu', 'hidden_layer_sizes': (200, 100), 'learning_rate': 'constant'}"

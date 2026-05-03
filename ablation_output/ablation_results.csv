@@ -1,0 +1,6 @@
+Configuration,Naive Bayes,Decision Tree,Logistic Regression,MLP
+Baseline,88.96,91.65,93.06,93.06
++ Feature Engineering,42.75,91.65,93.06,93.35
++ Advanced NLP,85.56,86.91,88.11,90.09
++ Tuned Params,88.96,87.12,93.06,93.14
+All Combined (Task 3),39.0,79.69,87.76,87.83
